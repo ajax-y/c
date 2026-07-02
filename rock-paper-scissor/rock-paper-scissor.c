@@ -80,7 +80,7 @@ int main() {
                 }
                 else {
                     option =1;
-                    printf("\n")
+                    printf("\n");
                 }
             }
         }
