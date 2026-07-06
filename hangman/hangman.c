@@ -1,5 +1,5 @@
 /*
-    Hangman is created by Ajay E at 02/07/2026
+    Hangman is written by Ajay E at 02/07/2026
 */
 
 #include <stdio.h>

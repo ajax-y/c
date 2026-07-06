@@ -1,5 +1,5 @@
 /*
-    Rock Paper Scissor created by Ajay E at 02/07/2026
+    Rock Paper Scissor was written by Ajay E at 02/07/2026
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -25,11 +25,14 @@ int main() {
             printf("Please enter a valid option.");
             option = 0; //Reset to show the wecome message again
         }
+        // For exit from the program
         else if(option == 2){
             printf("Thank You! Come again.");
             break;
         }
+        // For valid option
         else{
+            // Game interface
             printf("\tRock Paper Scissor\n");
             printf("##################################\n\n");
             printf("[1] Rock\n");
